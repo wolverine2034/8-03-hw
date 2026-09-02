@@ -35,7 +35,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 
-![Задание 1](https://github.com/wolverine2034/8-03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20_1.png?raw=true)`
+![Задание 1](https://github.com/wolverine2034/8-03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20_1.png?raw=true)
 
 
 ---
@@ -69,7 +69,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ---
-![Задание 2-3](https://github.com/wolverine2034/8-03-hw/blob/main/img/Задание_2-3.png)`
+![Задание 2-3](https://github.com/wolverine2034/8-03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20_2-3.png?raw=true)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -82,4 +82,4 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-![Задание 4](https://github.com/wolverine2034/8-03-hw/blob/main/img/Задание_4.png)`
+![Задание 4](https://github.com/wolverine2034/8-03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_4.png?raw=true)
