@@ -35,7 +35,7 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 
-![Задание 1](https://github.com/wolverine2034/8-03-hw/blob/main/img/Задание_1.png)`
+![Задание 1](https://github.com/wolverine2034/8-03-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20_1.png?raw=true)`
 
 
 ---
